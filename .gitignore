@@ -1,1 +1,4 @@
-./课程代码及课后作业/.ipynb_checkpoints/
+#ignore 
+**/.ipynb_checkpoints/
+*.swp
+
